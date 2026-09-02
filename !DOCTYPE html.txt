@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tytuł strony</title>
+    <meta name="description" content="Krótki opis zawartości strony dla wyszukiwarek.">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Witaj na stronie!</h1>
+    <p>To jest podstawowy szkielet dokumentu HTML5.</p>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+Jest on gotowym podstawowym szkieletem który wkleja się na początku każdej nowej strony
+
+1. informuje że używany jest html5
+2. informuje że jest używany język polski
+3. Zaczyna sekcje metadanych i konfiguracji
+4. ustawia to aby można było by używać polskich znaków
+5. zapewnia działający responsywny design na telefonach
+6. tytuł strony
+7. opis zawartości strony
+9. plik css odpowiedzialny za wygląd strony
+10. zamyka sekcje metadanych
+11. otwiera kontener na wygląd strony
+13. tworzy nagłówek
+14. tworzy akapit
+16. dodaje plik JavaScript do interakcji storny
+17. zamyka sekcje widocznej strony
+18. zamyka dokument html
